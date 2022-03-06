@@ -1,1 +1,1 @@
-Only D
+Only D drive whitout a Password 
